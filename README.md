@@ -1,9 +1,11 @@
 # GlimpsesOfBharat
 Glimpses Of Bharat is project developed using html and css.
-# Asure Link: https://yellow-flower-068878910.4.azurestaticapps.net/
+# Azure Link: https://yellow-flower-068878910.4.azurestaticapps.net/
 Azure Services Used:<br>
-1.Azure Static Web App<br>
+1.Azure Static Web App<br><br>
+-Azure Static Web Apps simplifies the deployment of static web apps. Integration with the code repository achieves this by automating application deployment. By linking the code repository with Azure Static Web Apps, whenever changes are made to the repository, a deployment workflow is automatically triggered.<br><br>
 2.Azure Chat Bot<br><br>
+-Azure Chatbot enables developers of all technical abilities build conversational AI bots—no code needed. Chatbot helps user to clear his doubts related to our website by asking questions and getting reliable answers. We are using chat bot to improve user experience and provide a plateform where users can have knowledge about any indian states and its popular tourist destinatoions.<br><br>
 Deployment Process:<br>
 -Created resource group on azure for bot and language service named as FRTProject<br>
 -Created Language service and Knowledge Base for chatbot<br>
@@ -13,7 +15,7 @@ Deployment Process:<br>
 -Deployed project on GitHub Pages.<br>
 -Created new resource group called GlimpsesOfBharat2 for Azure Static Web App<br>
 -Created Azure Static Web App and linked the github repository with Static Web App.<br>
--Azure Static Web Apps simplifies the deployment of static web apps. Integration with the code repository achieves this by automating application deployment. By linking the code repository with Azure Static Web Apps, whenever changes are made to the repository, a deployment workflow is automatically triggered.
+
 
 ![bharat1](https://github.com/Arsude-Meghna/GlimpsesOfBharat/assets/142217783/4b36a210-0f68-499f-ac39-1b6f042e2343)
 ![bharat8](https://github.com/Arsude-Meghna/GlimpsesOfBharat/assets/142217783/b6e388bc-7640-46b7-b1ed-bd4ca6c8d798)
