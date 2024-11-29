@@ -1,5 +1,6 @@
 # GlimpsesOfBharat
 Glimpses Of Bharat is project developed using html and css.
+# Github Link: https://arsude-meghna.github.io/GlimpsesOfBharat/
 # Azure Link: https://yellow-flower-068878910.4.azurestaticapps.net/
 Azure Services Used:<br>
 1.Azure Static Web App<br><br>
